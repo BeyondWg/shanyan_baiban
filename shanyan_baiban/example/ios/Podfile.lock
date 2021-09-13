@@ -1,0 +1,22 @@
+PODS:
+  - cl_shanyan_baiban (1.0.0):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - cl_shanyan_baiban (from `.symlinks/plugins/cl_shanyan_baiban/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  cl_shanyan_baiban:
+    :path: ".symlinks/plugins/cl_shanyan_baiban/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  cl_shanyan_baiban: c6185c43467c04154b55c08abd1361aa87a7cebd
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
