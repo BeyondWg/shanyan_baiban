@@ -24,8 +24,6 @@ A new Flutter plugin.
 
   # Flutter.framework does not contain a i386 slice.
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES',
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386',
-    'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/CL_ShanYanSDK',
-    'OTHER_LDFLAGS' => '$(inherited) -undefined dynamic_lookup -ObjC'
+    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386'
     }
 end
