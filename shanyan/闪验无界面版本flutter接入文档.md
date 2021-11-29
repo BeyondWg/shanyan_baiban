@@ -1,4 +1,5 @@
-# 闪验无界面版本flutter v1.0.1 集成文档
+### 安装
+
 
 在工程 pubspec.yaml 中加入 dependencies
 
