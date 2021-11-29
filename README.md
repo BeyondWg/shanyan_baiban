@@ -12,9 +12,9 @@
 dependencies:
   shanyan:
     git:
-      url: git@github.com:BeyondWg/shanyan_baiban.git
+      url: git://github.com/BeyondWg/shanyan_baiban.git
       path: shanyan
-      ref: v1.0.0
+      ref: v1.0.1
 ```
 
 
